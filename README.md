@@ -36,5 +36,5 @@ I check the collision callbacks by finding the number of points of contact on ea
 
 #### Dropping the Objects - .
 This function drops random balls and boxes on the hinge and spring bridge at set intervals. The intervals are set In the draw_world() function  this is done by counting the approximate number of frames which go buy as the scene is updated. This frame integer is then used to determine how long between frames we should wait to drop more objects on the bridge. The original objects are just translated above the bridge when the frame count is correct. 
-![Demo Youtube Video]( https://youtu.be/Fmc4ynu2lRo)
+![Demo Youtube Video]( https://www.youtube.com/watch?v=Fmc4ynu2lRo)
 
